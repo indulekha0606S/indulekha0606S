@@ -11,16 +11,19 @@ I am currently pursuing a Bachelor of Engineering in Computer Science (Data Scie
 Achievements
 Spark-Hack 2026 – 1st Place Winner
 Won the JNNCE Spark-Hack 2026 hackathon as a member of Team Code Bug.
+
 Currently Learning
 Power BI & Data Visualization
 Python for Data Science
 Machine Learning
 Data Analysis & Business Intelligence
+
 Current Goals
 Develop a strong GitHub portfolio
 Participate in Kaggle competitions
 Contribute to open-source projects
 Prepare for AI & Data Science internships
+
 Interests
 Artificial Intelligence
 Machine Learning
@@ -29,14 +32,12 @@ Business Intelligence
 Data Visualization
 Space & NASA Data
 Sports Analytics
+
 Tech Stack
-
-Languages
-
+Languages:
 Python
 
 Data & Analytics
-
 Power BI
 Tableau
 Featured Projects
