@@ -1,4 +1,4 @@
-Indulekha S
+Indulekha S:
 
 She/Her
 
@@ -8,13 +8,13 @@ I enjoy solving problems creatively and exploring different perspectives. Having
 
 I am currently pursuing a Bachelor of Engineering in Computer Science (Data Science) at JNNCE. I'm passionate about Data Science, Artificial Intelligence, Data Analytics, and building projects that turn data into meaningful insights. I'm continuously expanding my skills through hands-on projects in Power BI, Python, Tableau, and Machine Learning.
 
-Achievements
+Achievements:
 
 Spark-Hack 2026 – 1st Place Winner
 
 Won the JNNCE Spark-Hack 2026 hackathon as a member of Team Code Bug.
 
-Currently Learning
+Currently Learning:
 
 Power BI & Data Visualization
 
@@ -24,7 +24,8 @@ Machine Learning
 
 Data Analysis & Business Intelligence
 
-Interests
+Interests:
+
 Artificial Intelligence
 
 Machine Learning
@@ -35,7 +36,7 @@ Business Intelligence
 
 Data Visualization
 
-Tech Stack
+Tech Stack:
 Languages:
 Python
 
@@ -45,13 +46,13 @@ Power BI
 
 Tableau
 
-Featured Projects
+Featured Projects:
 
 Superstore Sales Dashboard
 
 Chanda LGX
 
-Connect with Me
+Connect with Me:
 
 Portfolio: https://indulekhas-portfolio.netlify.app/
 
