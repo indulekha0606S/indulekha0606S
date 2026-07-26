@@ -9,40 +9,48 @@ I enjoy solving problems creatively and exploring different perspectives. Having
 I am currently pursuing a Bachelor of Engineering in Computer Science (Data Science) at JNNCE. I'm passionate about Data Science, Artificial Intelligence, Data Analytics, and building projects that turn data into meaningful insights. I'm continuously expanding my skills through hands-on projects in Power BI, Python, Tableau, and Machine Learning.
 
 Achievements
+
 Spark-Hack 2026 – 1st Place Winner
+
 Won the JNNCE Spark-Hack 2026 hackathon as a member of Team Code Bug.
 
 Currently Learning
-Power BI & Data Visualization
-Python for Data Science
-Machine Learning
-Data Analysis & Business Intelligence
 
-Current Goals
-Develop a strong GitHub portfolio
-Participate in Kaggle competitions
-Contribute to open-source projects
-Prepare for AI & Data Science internships
+Power BI & Data Visualization
+
+Python for Data Science
+
+Machine Learning
+
+Data Analysis & Business Intelligence
 
 Interests
 Artificial Intelligence
+
 Machine Learning
+
 Data Analytics
+
 Business Intelligence
+
 Data Visualization
-Space & NASA Data
-Sports Analytics
 
 Tech Stack
 Languages:
 Python
 
 Data & Analytics
+
 Power BI
+
 Tableau
+
 Featured Projects
+
 Superstore Sales Dashboard
+
 Chanda LGX
+
 Connect with Me
 
 Portfolio: https://indulekhas-portfolio.netlify.app/
