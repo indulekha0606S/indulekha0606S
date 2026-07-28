@@ -1,6 +1,6 @@
-Indulekha S
 
-# 💫 About Me:
+
+# 💫 Indulekha S:
 
 I enjoy solving problems creatively and exploring different perspectives. Having completed part of my early education in the United States, I gained international exposure and developed a global perspective that continues to shape my approach to learning and problem-solving.
 
