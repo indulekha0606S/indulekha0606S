@@ -1,5 +1,11 @@
-# 💫 Indulekha S:
-I enjoy solving problems creatively and exploring different perspectives. Having completed part of my early education in the United States, I gained international exposure and developed a global perspective that continues to shape my approach to learning and problem-solving.<br><br>I'm a Computer Science (Data Science) student passionate about turning data into meaningful insights. I'm currently learning Power BI, Python, SQL, and data visualization while building practical projects to strengthen my analytical and problem-solving skills.<br><br>### Currently Learning<br>- Power BI<br>- Python<br>- SQL<br>- Data Visualization<br>
+# ✨Indulekha S✨:
+I enjoy solving problems creatively and exploring different perspectives. Having completed part of my early education in the United States, I gained international exposure and developed a global perspective that continues to shape my approach to learning and problem-solving.<br><br>I'm a Computer Science (Data Science) student passionate about turning data into meaningful insights. I'm currently learning Power BI, Python, SQL, and data visualization while building practical projects to strengthen my analytical and problem-solving skills.<br><br>
+
+### Currently Learning
+- Power BI
+- Pytho
+- SQL
+- Data Visualization
 
 ### Interests
 - Data Analytics 
